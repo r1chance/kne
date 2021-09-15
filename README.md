@@ -51,6 +51,11 @@ as well.  This can reduce cycle time as there will be no contention for the
 virtual testbed vs. the hardware testbed. This also allows for "unit testing"
 the integration test.
 
+#### Use Case 1
+#### Use Case 2
+#### Use Case 3
+
+
 ### Software Development
 
 For the development of new services or for offering a better environment to
@@ -70,6 +75,10 @@ number of production topologies.
 cd kne_cli
 go build 
 ```
+## Communication
+
+Please sign up for [KNE slack contributer channel](https://app.slack.com/client/T1CG20Q9L/C02DNQ31AFR?skip_onboarding=1)
+Look at [FAQ](../FAQ.md)
 
 ## Thanks
 
